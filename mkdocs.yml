@@ -1,0 +1,10 @@
+site_name: "Law Firm PPC Glossary"
+site_description: "Plain-English definitions of the pay-per-click terms law firms see in ad reports and agency proposals, by Legal Web Agency."
+site_author: Legal Web Agency
+site_url: https://law-firm-ppc-glossary.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - "Law Firm PPC Glossary": index.md
+markdown_extensions:
+  - tables
